@@ -1,2 +1,3 @@
 # modulesync
-For syncing same modules in different locaions 
+
+For syncing same modules in different locations 
