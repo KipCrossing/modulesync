@@ -28,6 +28,7 @@ setup(
     ],
     python_requires=">=3.7",
     install_requires=[],
+    entry_points={"console_scripts": ["modulesync = modulesync.__main__:main"]},
     license_files=("LICENSE",),
     # cmdclass={"egg_info": egg_info_ex},
 )
